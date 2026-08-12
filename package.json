@@ -1,12 +1,10 @@
 {
   "name": "pramod-mahajan-portfolio",
   "version": "1.0.0",
-  "description": "Personal Portfolio of Pramod Mahajan - Full-Stack Web Developer and Student",
-  "main": "server.js",
+  "description": "Personal Portfolio of Pramod Mahajan",
   "type": "module",
   "scripts": {
     "dev": "node server.js",
-    "build": "echo 'No build required'",
     "start": "node server.js"
   },
   "dependencies": {
